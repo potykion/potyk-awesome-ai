@@ -8,6 +8,7 @@
 ## Image generation
 
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - open source image generator
+- [promptchan.ai](https://promptchan.ai/) - NSFW image generator
 
 ## Coding assistence
 

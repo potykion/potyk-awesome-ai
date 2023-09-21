@@ -4,6 +4,7 @@
 
 - [bard](https://bard.google.com/chat) - chat by Google [VPN required]
 - **[poe](https://poe.com/)** - chat model aggregator
+- [you.com](https://you.com/) - yet another chat
 - https://chat.ramxn.dev/chat/ - free chat model ([repo](https://github.com/ramonvc/freegpt-webui))
 
 ## Image generation

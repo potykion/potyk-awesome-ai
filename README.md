@@ -2,13 +2,14 @@
 
 ## Chat
 
-- [bard](https://bard.google.com/chat) - chat by Google [VPN required]
+- [**bard**](https://bard.google.com/chat) - chat by Google [VPN required]
 - **[poe](https://poe.com/)** - chat model aggregator
 - [you.com](https://you.com/) - yet another chat with search engine
 - https://chat.ramxn.dev/chat/ - free chat model ([repo](https://github.com/ramonvc/freegpt-webui))
 
 ## Image generation
 
+- [glif.app](https://glif.app/glifs) - AI filters by photo, [images with hidden text](https://glif.app/@fab1an/glifs/clmqp99820001jn0f2xywz250) generator
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - open source image generator
 - [shedevrum](https://shedevrum.ai/) - image generator by Yandex
 - [promptchan.ai](https://promptchan.ai/) - NSFW image generator

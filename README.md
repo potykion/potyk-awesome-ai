@@ -13,6 +13,9 @@
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - open source image generator
 - [shedevrum](https://shedevrum.ai/) - image generator by Yandex
 - [promptchan.ai](https://promptchan.ai/) - NSFW image generator
+- [vizcom.ai](https://www.vizcom.ai/) - sketch to render gen
+- [app.runwayml.com](https://app.runwayml.com/login) - image to video
+
 
 ## Coding assistence
 

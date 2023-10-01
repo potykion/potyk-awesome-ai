@@ -15,6 +15,7 @@
 - [promptchan.ai](https://promptchan.ai/) - NSFW image generator
 - [vizcom.ai](https://www.vizcom.ai/) - sketch to render gen
 - [app.runwayml.com](https://app.runwayml.com/login) - image to video
+- [dream.ai](https://dream.ai/) - image gen from Wombo
 
 
 ## Coding assistence
